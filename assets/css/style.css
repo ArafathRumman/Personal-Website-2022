@@ -4,6 +4,9 @@ body {
 h1 {
   font-size: 50px;
 }
+h2 {
+  font-size: 40px;
+}
 .flex {
   display: flex;
 }
@@ -43,4 +46,32 @@ h1 {
   outline: auto;
   outline-style: none;
   margin-right: 15px;
+}
+
+.mid-heading {
+  text-align: center;
+}
+.container-div {
+  position: absolute;
+  left: 100px;
+  right: 100px;
+}
+.box-style {
+  width: 33%;
+  margin-left: 1.5%;
+  margin-right: 1.5%;
+  border-radius: 10px;
+  background-color: #edf5f6;
+  padding-left: 10px;
+}
+.color2 {
+  background-color: #ffeeee;
+}
+
+.color3 {
+  background-color: #fff4d6;
+}
+
+.box-style img {
+  width: 50%;
 }
