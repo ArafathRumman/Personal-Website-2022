@@ -19,18 +19,23 @@ h2 {
   margin: 10px 0px;
 }
 .half-width img {
-  width: 70%;
+  width: 80%;
 }
 .half-width a {
   text-decoration: none;
   padding: 10px 20px;
   color: white;
   font-weight: 700;
-  background-color: lightcoral;
+  background-image: linear-gradient(blue, #0b0d17);
   border-radius: 5px;
 }
+
+.only-for-heading-margin {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 .color-text {
-  color: coral;
+  color: royalblue;
 }
 .heading {
   display: flex;
@@ -40,9 +45,9 @@ h2 {
 }
 
 .vertical-line {
-  border-left: 5px solid lightcoral;
-  height: 150px;
-  margin-top: 63px;
+  border-left: 5px solid blue;
+  height: 113px;
+  margin-top: 62px;
   border-radius: 10px;
   outline: auto;
   outline-style: none;
@@ -77,7 +82,7 @@ h2 {
   width: 50%;
 }
 .Develop-Without-Limit {
-  margin-top: 500px;
+  margin-top: 550px;
   background-image: url(/assets/images/shapes/shape-1.png);
   background-position: left;
   background-repeat: no-repeat;
@@ -89,6 +94,7 @@ h2 {
   background-position: right 300px;
   background-repeat: no-repeat;
   background-size: 250px;
+  margin-top: 100px;
 }
 .footer {
   background-color: #0b0d17;
