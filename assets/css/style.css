@@ -89,7 +89,7 @@ h2 {
 }
 .Develop-Without-Limit {
   margin-top: 550px;
-  background-image: url(/assets/images/shapes/shape-1.png);
+  background-image: url(assets/images/shapes/shape-1.png);
   background-position: left;
   background-repeat: no-repeat;
   background-size: 300px;
@@ -99,7 +99,7 @@ h2 {
 }
 
 .Know-our-Global-Community {
-  background-image: url(/assets/images/shapes/shape-1.png);
+  background-image: url(assets/images/shapes/shape-1.png);
   background-position: right 350px;
   background-repeat: no-repeat;
   background-size: 250px;
