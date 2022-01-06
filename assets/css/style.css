@@ -29,10 +29,16 @@ h2 {
   background-image: linear-gradient(blue, #0b0d17);
   border-radius: 5px;
 }
+.img-possion {
+  margin-bottom: 100px;
+}
 
 .only-for-heading-margin {
   margin-top: 0px;
   margin-bottom: 0px;
+}
+.only-for-heading-margintop {
+  margin-top: 70px;
 }
 .color-text {
   color: royalblue;
@@ -88,25 +94,33 @@ h2 {
   background-repeat: no-repeat;
   background-size: 300px;
 }
+.my-mission-col {
+  color: #0b0d17;
+}
 
 .Know-our-Global-Community {
   background-image: url(/assets/images/shapes/shape-1.png);
-  background-position: right 300px;
+  background-position: right 350px;
   background-repeat: no-repeat;
   background-size: 250px;
   margin-top: 100px;
+  overflow: hidden;
 }
 .footer {
   background-color: #0b0d17;
   text-align: center;
+  overflow: hidden;
 }
-.footer h3 {
+.footer h2 {
   color: #8b8c90;
   font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 17px;
 }
 .footer span {
   color: #ff5959;
 }
 .footer p {
   color: #8b8c90;
+  margin-top: -20px;
 }
