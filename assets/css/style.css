@@ -94,11 +94,13 @@ h2 {
   background-color: #0b0d17;
   text-align: center;
 }
-.footer h2,
-p {
+.footer h3 {
   color: #8b8c90;
   font-style: italic;
 }
 .footer span {
   color: #ff5959;
+}
+.footer p {
+  color: #8b8c90;
 }
